@@ -1,0 +1,26 @@
+CUSTID,FULLNAME,TITLE,CITY,STATE,ZIP,COUNTRY,PHONE,FAX,CREATEDATE,EMAIL,SSN,CREDITCARD,RECNUM
+1001,Andre Hayes,Director,Atlanta,GA,30305,United States,,,11/12/2004,AndrEastHayes@worldafrican.com,275-80-3158,5175-8031-5859-2175,1
+1002,Andrzej Mucha,Senior Financial Analyst,Greensboro,NC,27455,United States,910-545-2157,(910) 545-2500,1/23/1998,AndrzejMucha@vcela.com,228-17-2121,4742-2253-9672-6851,2
+1003,Anthony Dillon,Deputy Generall Counsel,Greenspring,NC,27455,United States,220193635,(910) 545-2219,9/13/1996,AnthonyDillon@vcela.com,242-22-5396,4288-4368-1986-8275,3
+1004,Arthur Nelson,,Myrtle Beach,SC,29579,United States,803.744.0150,,7/27/2005,,216-33-6491,5152-7483-4102-1151,4
+1005,B J Kemple,Manager Sales,Dallas,TX,75220,United States,214/904/9704,(214) 904-0131,12/2/1999,BKemple@ehpt.com,219-46-9496,4555-2700-9329-6978,5
+1006,B Liu,International Sales Manager,Pearl,MS,39208,United States,,(601) 939-6637,4/11/1997,,227-78-2466,4555-7470-4809-1851,6
+1007,Bob Bainbridge,President,Arden Hills,MN,55112,United States,612/628-0015,(612) 628-4034,12/22/1996,,443-17-1056,5133-1603-8621-5074,7
+1008,Brad Poorman,,Abilene,TX,79606,United States,,,8/4/1996,BradPoorman@sts.com 915/677.1741,573-19-3487,4642-2703-9622-5729,8
+1009,Brent Levetan,Director,Salt Lake City,UT,84107,United States,,,2/17/1997,BrentLevetan@3com.com,255-33-1244,5162-3704-0632-7262,9
+1010,Carol Whitaker,CEO,Englewood,CO,80110,United States,(303) 733-7474,(303) 733-7480,6/11/1994,,223-45-7455,4468-8587-5406-2014,10
+1011,Carol Brookins,President,Washington,DC,20036,United States,(202) 785-3345,(202) 659-6891,7/23/1994,,244-60-1467,4826-1699-8328-5682,11
+1012,Chris Storbeck,Manager Sales,Grapevine,TX,76051,United States,(817) 291-9060,,2/24/2004,ChrisStorbeck@ehpt.com,227-66-8290,5126-1149-8378-5814,12
+1013,Cindy Hanson,Product Manager,Hghlnds Ranch,CO,80126,United States,(303) 792-1329,,6/4/2001,CindyHanson@ehpt.com,224-50-5648,5113-0692-7721-4886,13
+1014,Clorky Diefendorf,Vice President,Glastonbury,CT,6033,United States,,,9/21/2005,ClorkyDiefendorf@wiltelIncorporated.com,230-94-4903,4004-0692-7710-3340,14
+1015,Craig Perkins,Telecom Analyst,Kansas City,MO,64108,United States,(816) 881-6040,(816) 474-2604,4/15/1995,,226-72-6591,5123-6472-3291-0868,15
+1016,Darlene Smith,Manager,,TX,75231,United States,(972) 583-3180,(972) 583-3450,6/1/1999,DarlenEastSmith@ehpt.com,231-73-4559,4917-5369-2997-9463,16
+1017,David Atwood,Vice President Corporation Development,Norcross,GA,30092,United States,(404) 448-5210,,2/13/1998,DavidAtwood@alltel.com,219-33-6176,5175-3261-0289-7383,17
+1018,Derek Wright,Tech Engineer,Richardson,TX,75081,United States,(972) 583-1730,,10/29/1994,DerekWright@ehpt.com,575-62-8531,5155-2250-9379-6196,18
+1019,Donald Mulder,Vice President Business Development,Mt Prospect,IL,60056,United States,(847) 342-6987,(847) 342-6732,1/12/2004,DonaldMulder@3com.com,230-19-4447,5139-6926-3545-0940,19
+1020,Donna Clayburn,Director,Atlanta,GA,30305,United States,,,2/10/1999,DonnaClayburn@worldafrican.com,584-19-5444,5104-5362-2290-9670,20
+1021,Elvin Smith,,Kansas City,MO,64120,United States,(816) 483-6900,(816) 240-4966,1/23/1998,,228-39-5635,4559-7926-4555-9799,21
+1022,Eugene Jackson,Chairman,Atlanta,GA,30350,United States,(404) 365-8850,(404) 365-8350,7/21/1997,EugenEastJackson@worldafrican.com,216-60-8290,4910-0145-7064-4510,22
+1702,Andrzej Mucha,Senior Financial Analyst,Greensboro,NC,27455,United States,910-545-2157,(910) 545-2500,1/23/1998,AndrzejMucha@vcela.com,228-17-2121,4742-2253-9672-6851,2
+1092,Andrzej Mucha,Senior Financial Analyst,Greensboro,NC,27455,United States,910-545-2157,(910) 545-2500,1/23/1998,AndrzejMucha@vcela.com,228-17-2121,4742-2253-9672-6851,2
+
