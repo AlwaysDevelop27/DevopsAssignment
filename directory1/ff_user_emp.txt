@@ -1,0 +1,5 @@
+empId,fname,lname,location,salary,designation
+1,sharanya,bhiram,alwal,100000,Associate
+2,monica,valandas,musheerabad,200000,teamlead
+3,nikhil,jevaji,jeedimetla,50000,officer
+4,srikanth,peladi,Lbnagar,500000,manager

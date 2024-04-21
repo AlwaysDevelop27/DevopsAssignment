@@ -1,0 +1,3 @@
+"empid","fullname","location","Salary","deignation"
+"3","nikhiljevaji","jeedimetla","50000","officer"
+"4","srikanthpeladi","Lbnagar","500000","manager"
